@@ -10,9 +10,7 @@
 
 ## 🎬 Demo
 
-![Vehicle Detector AI Demo](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-*Demo GIF showing vehicle detection and BFS/DFS/UCS paths in traffic video.*
-
+[▶️ Watch Demo Video](sample_videos/rst.mp4)
 ---
 
 ## ✨ Features
